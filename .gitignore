@@ -1,0 +1,9 @@
+.venv/
+.venv*/
+venv/
+__pycache__/*
+label-studio-inputs/*
+yolo-training-data/
+runs*/
+runs/
+*.pt
